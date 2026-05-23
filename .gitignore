@@ -3,3 +3,4 @@ curriculum-site/.next
 redis/node_modules
 moving-ahead-with-redis/node_modules
 build-minimal-login-otp/node_modules
+user-profile-cache-json-vs-hash/node_modules
